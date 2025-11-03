@@ -66,7 +66,7 @@ If no matches are found:
 - Add GUI or Streamlit dashboard interface
 
  Author
- by Aether
+  Aether
 
  License
 This project is licensed under the MIT License. See the LICENSE file for details.
