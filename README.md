@@ -8,7 +8,7 @@ A Python script that automates the search for a specific sneaker—**Nike Air Ma
 ---
 
  Features
-- Searches StockX and eBay UK for the target sneaker
+- Searches StockX and eBay UK for the target trainer or other product 
 - Filters results priced at or below £160
 - Displays product name, price, source, and direct URL
 - Fully automated using Selenium WebDriver
