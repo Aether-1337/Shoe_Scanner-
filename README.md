@@ -65,7 +65,7 @@ If no matches are found:
 - Export results to CSV or JSON
 - Add GUI or Streamlit dashboard interface
 
- Author
+ Author -
   Aether
 
  License
