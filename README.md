@@ -37,7 +37,7 @@ python sneaker_scraper.py
  Usage
 The script will:
 - Open StockX and eBay UK in Chrome
-- Search for the sneaker
+- Search for the trainer 
 - Wait for results to load
 - Print matches under £160
 
@@ -60,7 +60,7 @@ If no matches are found:
 - Always respect site terms of service when scraping.
 
  Future Enhancements
-- Add support for multiple sneaker queries
+- Add support for multiple trainer/product queries
 - Implement headless browsing for faster execution
 - Export results to CSV or JSON
 - Add GUI or Streamlit dashboard interface
