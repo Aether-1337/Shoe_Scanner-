@@ -1,7 +1,7 @@
 
 Trainer Price Scraper: StockX & eBay UK
 
-A Python script that automates the search for a specific sneaker—**Nike Air Max 1 Pinnacle Ocean Fog UK 7.5**, you can edit the product search by amednding code lines 8 and 31 and price on code line 21 and 62 —It only works across StockX and eBay UK cureently. It scrapes listings, filters by price, and displays matching results under £160.
+A Python script that automates the search for a specific trainer—**Nike Air Max 1 Pinnacle Ocean Fog UK 7.5**, you can edit the product search by amednding code lines 8 and 31 and price on code line 21 and 62 —It only works across StockX and eBay UK cureently. It scrapes listings, filters by price, and displays matching results under £160.
 
 
 
