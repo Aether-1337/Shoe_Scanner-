@@ -28,7 +28,6 @@ A Python script that automates the search for a specific sneaker—**Nike Air Ma
  Setup
 - Clone this repository:
 git clone https://github.com/Aether-1337/Shoe_Scanner-.git
-cd sneaker-price-scraper
 - Ensure ChromeDriver is installed and accessible in your system PATH.
 - Run the script:
 python sneaker_scraper.py
